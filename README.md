@@ -48,3 +48,6 @@ This workflow allows for efficient retrieval and generation of insights across d
 - OpenAI API key
 - Weaviate Cloud Services account
 - FFmpeg (for audio processing)
+
+## Video link
+https://www.youtube.com/watch?v=D5iKsvK7cXg
