@@ -51,3 +51,6 @@ This workflow allows for efficient retrieval and generation of insights across d
 
 ## Video link
 https://www.youtube.com/watch?v=D5iKsvK7cXg
+
+## Medium article
+https://medium.com/artificial-corner/multimodal-retrieval-augmented-generation-for-sustainable-finance-with-code-5a910f3b666c
